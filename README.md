@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello im TJ 👋
+## School projects
+
+[file system group project with four people] https://github.com/CSC415-2025-Fall/csc415-filesystem-Elton0000
+[coding a device driver using kernel commands in c] https://github.com/CSC415-2025-Fall/csc415-assignment-6-device-driver-tjhax
+[coding a server using front/back-end] https://github.com/sfsu-csc413-03-sp2025/homework-2-tjhax
+
 
 <!--
 **tjhax/tjhax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
